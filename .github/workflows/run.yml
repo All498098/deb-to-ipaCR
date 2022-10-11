@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       deb:
-        description: "Direct URL to deb file"
+        description: "https://sparkdev.me/download/com.spark.snowboard/1.0.4-1.deb"
         required: true
 
 jobs:
