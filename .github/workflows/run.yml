@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       deb:
-        description: "Direct URL to deb file"
+        description: "https://t.co/jGf5co4bcf"
         required: true
 
 jobs:
